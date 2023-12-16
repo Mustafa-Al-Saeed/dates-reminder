@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <Dates/>
-      <div>Done</div>
     </div>
   );
 }
